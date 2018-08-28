@@ -35,7 +35,7 @@ MIT Licenseを適用します。
 JSON in Java
 https://github.com/stleary/JSON-java
 
-#Author
+##Author
  tsudon 
 - https://github.com/tsudon/Ugoira2GIF
 - https://qiita.com/tsudon
