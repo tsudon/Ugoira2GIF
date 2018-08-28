@@ -24,8 +24,8 @@ Ugoira2GIF
 フォーマットを選択して、*変換*をクリックすると同じ名前のgif/pngファイルが作成されます。
 
 ## Version
-2018/08/24 0.0.1pre Qiitaに公開したPNGSaverの拡張でAPNGの実装のテスト用に作成
-2018/08/28 1.0.0 release
+- 2018/08/24 0.0.1pre Qiitaに公開したPNGSaverの拡張でAPNGの実装のテスト用に作成
+- 2018/08/28 1.0.0 release
 
 
 ## License
